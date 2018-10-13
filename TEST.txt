@@ -3,3 +3,6 @@ doplnek
 
 dalsi
 radky
+
+dalsi zmeny z https://github.com/Developer-exe/Test/
+branch: changes-1
